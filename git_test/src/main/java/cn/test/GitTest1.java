@@ -6,4 +6,8 @@ public class GitTest1 {
         int i = 0;
         //这是注释
     }
+
+    public void test1(){
+        System.out.println("哈哈哈");
+    }
 }
