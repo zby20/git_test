@@ -10,5 +10,6 @@ public class GitTest1 {
     public void test1(){
         System.out.println("哈哈哈");
         System.out.println("差异2");
+        System.out.println("差异3");
     }
 }
